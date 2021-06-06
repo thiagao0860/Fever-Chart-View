@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://reactFever8DB75E0C310A44F3A27A95F33F89171E/./style/visual.less"],"names":[],"mappings":"AAAA;EACE,eAAe;AACjB;AACA;EACE,kBAAkB;EAClB,YAAY;AACd;AACA;EACE,aAAa;AACf","file":"visual.css","sourcesContent":["p {\n  font-size: 20px;\n}\np em {\n  background: yellow;\n  padding: 5px;\n}\n.feverChart {\n  display: flex;\n}\n"],"sourceRoot":""}

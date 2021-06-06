@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "author": {"name":"Thiago de Souza Alves","email":"tsalves.thiago@gmail.com"},
+    "resources": [
+        {
+            "resourceId": "rId0",
+            "sourceType": 5,
+            "file": "resources/reactFever8DB75E0C310A44F3A27A95F33F89171E.pbiviz.json"
+        }
+    ],
+    "visual": {"name":"reactFever","displayName":"ReactFever","guid":"reactFever8DB75E0C310A44F3A27A95F33F89171E","visualClassName":"Visual","version":"1.0.0","description":"Fever Visual for Power BI","supportUrl":"https://github.com/thiagao0860/Fever-Chart-View","gitHubUrl":"https://github.com/thiagao0860/Fever-Chart-View"},
+    "metadata": {
+        "pbivizjson": {
+            "resourceId": "rId0"
+        }
+    }  
+}
